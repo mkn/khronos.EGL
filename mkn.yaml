@@ -1,6 +1,6 @@
 
 
 name: khronos.EGL
-version: 1.5
+version: master
 inc: ./inc
 
